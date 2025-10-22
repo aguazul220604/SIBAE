@@ -1,6 +1,4 @@
 <h2>🧮 Energy Balance System (SIBAE)</h2>
-<<<<<<< HEAD
-=======
 
 <p>
   <strong>SIBAE</strong> is a backend-driven solution built with <strong>Laravel</strong> and <strong>MySQL</strong> to automate critical energy balance processes within institutional environments.
@@ -24,7 +22,6 @@
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
->>>>>>> 4c9372e8daedfd87ddb7a9a32a5244364b9c6c0c
 
 <p>
   <strong>SIBAE</strong> is a backend-driven solution built with <strong>Laravel</strong> and <strong>MySQL</strong> to automate critical energy balance processes within institutional environments.
